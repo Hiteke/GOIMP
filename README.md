@@ -1,4 +1,8 @@
 # GOIMP
 Golfing Over It Multiplayer
 
-![alt text](/Images/unknown.png)
+![](/Images/unknown.png)
+
+GUI design
+![](/Images/1.PNG)
+![](/Images/2.PNG)
