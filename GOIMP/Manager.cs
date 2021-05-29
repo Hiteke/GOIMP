@@ -16,8 +16,6 @@ namespace GOIMP
 
         void Update()
         {
-            bool enable = BallController.ballController != null && MainMenuInputController.mainMenuInputController == null;
-
             if (BallController.ballController != null && MainMenuInputController.mainMenuInputController == null)
             {
                 gameObject.GetComponent<PhotonManager>().enabled = true;
